@@ -1,5 +1,5 @@
 NAME
-    mailcat -- mail delivery program that acts like cat.
+    myriam.tnss -- mail delivery program that acts like cat.
 
 USAGE
         mailcat -c config.toml [-hn] [...]
